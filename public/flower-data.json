@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "name": "Red Rose Bouquet",
+    "price": 12.99,
+    "description": "Classic romantic red roses, freshly cut and arranged in an elegant bouquet perfect for any occasion.",
+    "spices": ["Rose water", "Cardamom", "Saffron"],
+    "rating": 4.8,
+     "img": "https://i.ibb.co.com/TDd7HJ0w/tiffany-chan-ptgj-Rj9-l-D8-unsplash.jpg" 
+  },
+  {
+    "id": 2,
+    "name": "Lavender Bundle",
+    "price": 8.49,
+    "description": "Hand-harvested French lavender bundles with a calming aroma. Ideal for home decor and aromatherapy.",
+    "spices": ["Lavender oil", "Chamomile", "Mint"],
+    "rating": 4.6,
+    "img": "https://i.ibb.co.com/C39BXYLH/ryunosuke-kikuno-c-Fx-UZ7-UAf-c-unsplash-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sunflower Bunch",
+    "price": 7.99,
+    "description": "Bright and cheerful sunflowers to bring warmth and happiness to any room or garden space.",
+    "spices": ["Vanilla", "Turmeric", "Anise"],
+    "rating": 4.5,
+    "img": "https://i.ibb.co.com/jkbSSy8N/kwang-mathurosemontri-f-Y1-ECB1-RCd0-unsplash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "White Lily Arrangement",
+    "price": 15.50,
+    "description": "Pure white lilies symbolizing elegance and peace. Long-lasting blooms with a gentle, sweet fragrance.",
+    "spices": ["Jasmine", "Clove", "White pepper"],
+    "rating": 4.9,
+    "img": "https://images.unsplash.com/photo-1508610048659-a06b669e3321?w=400&h=400&fit=crop&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Pink Peony Mix",
+    "price": 18.00,
+    "description": "Lush, full-bodied peonies in soft pink tones. A luxurious choice for weddings and special celebrations.",
+    "spices": ["Rose otto", "Neroli", "Cinnamon"],
+    "rating": 4.7,
+    "img": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=400&h=400&fit=crop&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Orchid Pot",
+    "price": 22.00,
+    "description": "Exotic purple orchids in a ceramic pot. Low maintenance and blooms for weeks with minimal care.",
+    "spices": ["Orchid extract", "Sandalwood", "Bergamot"],
+    "rating": 4.8,
+    "img": "https://i.ibb.co.com/qFXFpKm3/annie-spratt-7-SXNxz8-UIw4-unsplash.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Daisy Field Bunch",
+    "price": 5.99,
+    "description": "Cheerful white and yellow daisies gathered from open meadows. Great for casual gifting or table decor.",
+    "spices": ["Chamomile", "Lemon balm", "Fennel"],
+    "rating": 4.3,
+    "img": "https://i.ibb.co.com/V02rw4xg/amy-humphries-S5w-UMr-Xdq1-M-unsplash.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tulip Assortment",
+    "price": 11.25,
+    "description": "A vibrant mix of spring tulips in red, yellow, and purple. Symbol of cheerfulness and new beginnings.",
+    "spices": ["Ginger", "Coriander", "Star anise"],
+    "rating": 4.6,
+    "img": "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=400&h=400&fit=crop&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Marigold Garland",
+    "price": 6.75,
+    "description": "Traditional golden marigold garlands used in celebrations and festivals. Rich color and long shelf life.",
+    "spices": ["Marigold oil", "Cumin", "Bay leaf"],
+    "rating": 4.4,
+    "img": "https://images.unsplash.com/photo-1596073419667-9d77d59f033f?w=400&h=400&fit=crop&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Hydrangea Cluster",
+    "price": 16.80,
+    "description": "Voluminous blue and purple hydrangeas that make a stunning centerpiece for events and home styling.",
+    "spices": ["Violet", "Iris root", "Nutmeg"],
+    "rating": 4.7,
+    "img": "https://images.unsplash.com/photo-1519378058457-4c29a0a2efac?w=400&h=400&fit=crop&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Daisy Field Bunch",
+    "price": 5.99,
+    "description": "Cheerful white and yellow daisies gathered from open meadows. Great for casual gifting or table decor.",
+    "spices": ["Chamomile", "Lemon balm", "Fennel"],
+    "rating": 4.3,
+    "img": "https://i.ibb.co.com/V02rw4xg/amy-humphries-S5w-UMr-Xdq1-M-unsplash.jpg"
+  },
+  {
+    "id": 12,
+    "name": "White Lily Arrangement",
+    "price": 15.50,
+    "description": "Pure white lilies symbolizing elegance and peace. Long-lasting blooms with a gentle, sweet fragrance.",
+    "spices": ["Jasmine", "Clove", "White pepper"],
+    "rating": 4.9,
+    "img": "https://images.unsplash.com/photo-1508610048659-a06b669e3321?w=400&h=400&fit=crop&q=80"
+  }
+
+]
