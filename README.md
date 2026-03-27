@@ -17,4 +17,37 @@ This project is designed to practice React concepts like components, props, stat
 * 📱 Fully responsive design
 * ⚡ Fast and dynamic UI using React
 
+---
 
+## 🛠️ Technologies Used
+
+* **React.js**
+* **JavaScript (ES6+)**
+* **JSON / API Data**
+
+---
+
+## 🎯 Learning Goals
+
+This project helps you understand:
+
+* React component structure
+* Props and state management
+* Rendering lists using `.map()`
+* Event handling
+* Basic UI design
+
+---
+
+## 🔮 Future Improvements
+
+* ✅ Add authentication (Login/Register)
+* 💳 Payment integration
+* 🌐 Connect with backend (Node.js / Firebase)
+* ❤️ Wishlist feature
+
+---
+
+
+
+✨ *Happy Coding!* ✨
